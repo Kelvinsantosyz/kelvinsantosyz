@@ -3,10 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=714EBB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kelvin+Santos;I'm+20+years+old;I+from+Brasil,+SP;I+study+systems+development+analysis+at+Uninove;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="left">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinsantosyz_icons=true&theme=transparent)
-</div>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
