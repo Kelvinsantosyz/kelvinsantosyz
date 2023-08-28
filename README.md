@@ -5,7 +5,7 @@
 
 <div align="left">
   
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinsantosyz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinsantosyz_icons=true&theme=transparent)
 </div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
