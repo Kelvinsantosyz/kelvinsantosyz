@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E3766&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343658&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=714EBB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kelvin+Santos;I'm+22+years+old;I+from+Brazil,+SP;I+study+computer+Science+at+Uninove;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -54,4 +54,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E3766&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343658&height=120&section=footer"/>
