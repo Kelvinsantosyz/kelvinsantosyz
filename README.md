@@ -3,7 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=714EBB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kelvin+Santos;I'm+22+years+old;I+from+Brazil,+SP;I+study+computer+Science+at+Uninove;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+### Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-felipe-dos-santos-a087bb230/)
 ### Programming languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
